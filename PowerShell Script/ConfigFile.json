@@ -1,5 +1,6 @@
 {
   "SourceParentDirectory": "C:\\Users\\ajhillier\\OneDrive - Burns & McDonnell\\Desktop\\Substation IQC Application",
   "DestinationParentDirectory": "C:\\Users\\ajhillier\\OneDrive - Burns & McDonnell\\Desktop\\Substation IQC Application 2",
-  "DefaultDaysOffset": 14
+  "DefaultDaysOffset": 14,
+  "BackupDaysOffset": 7
 }
